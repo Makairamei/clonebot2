@@ -3,14 +3,14 @@ import json
 from distutils.util import strtobool as stb
 
 # --------------------------------------
-BOT_TOKEN = "6402548578:AAEMp2LzLOeRQC9APn_n62ox5mKG3nLSmls"
-GDRIVE_FOLDER_ID = "106wjVEuYWbCGgHbmyNq2sdS0Sg0N7XaN"
+BOT_TOKEN = ""
+GDRIVE_FOLDER_ID = ""
 # Default folder id.
 OWNER_ID = 5366835263
 # Example: OWNER_ID = 619418070
-AUTHORISED_USERS = [5366835263]
+AUTHORISED_USERS = [5366835263, 1005381870056, -1005092392994, -1001841535556, -1001446366033, -1006137698413]
 # Example: AUTHORISED_USERS = [63055333, 100483029, -1003943959]
-INDEX_URL = ""
+INDEX_URL = "https://file.faxecez.eu.org/0:/"
 IS_TEAM_DRIVE = True
 USE_SERVICE_ACCOUNTS = False
 # --------------------------------------
